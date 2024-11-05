@@ -9,6 +9,8 @@
         "-g",
         "${workspaceFolder}\\libs\\CH01-Singly-Linked-Lists\\SinglyList.h",
         "${workspaceFolder}\\libs\\CH01-Singly-Linked-Lists\\SinglyList.cpp",
+        "${workspaceFolder}\\libs\\CH02-Doubly-Linked-Lists\\DoublyList.h",
+        "${workspaceFolder}\\libs\\CH02-Doubly-Linked-Lists\\DoublyList.cpp",
         "${file}",
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
